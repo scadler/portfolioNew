@@ -9,7 +9,13 @@
 #pageTop{
     background-color: #408CFF;
     color: white;
-    font-size: 40px;
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+#pageTopSecond{
+    background-color: #408CFF;
+    color: white;
+    font-size: 25px;
     font-family: 'Open Sans', sans-serif;
 }
 #format{
