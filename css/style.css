@@ -21,6 +21,9 @@
 #format{
     margin-left: 40px;
 }
+#formatSecond{
+    margin-left: 90px;
+}
 .button{
     background-color: #fed65d;
     border: solid 2px #fed65d;
