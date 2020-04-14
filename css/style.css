@@ -89,11 +89,8 @@ justify-content: center;
 .membersImg{
     height:100px;
 }
-.slides{
-    height: 500px;
-    width: 500px;
-}
+
 #img{
-    height: 500px;
-    width: 500px;
+    height: 600px;
+    width: 600px;
 }
